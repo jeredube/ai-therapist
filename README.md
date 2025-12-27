@@ -1,5 +1,5 @@
 # ai-therapist
-Created by Jeremy Dube and Joe Zhou (Berkley CS 28')
+Created by Jeremy Dube (Mcgill CE) and Joe Zhou (Berkeley CE)
 
 1. install python environment on python.org
 2. open command prompt (windows) or terminal (apple)
